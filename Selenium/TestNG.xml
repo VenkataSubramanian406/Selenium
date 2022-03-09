@@ -5,7 +5,6 @@
 <listener class-name="testNG.ListenersExample"></listener>
 </listeners>
 <test name="Test cases">
-<!-- <parameter name="Name" value="Duck"></parameter> -->
 
 <classes>
 <class name="testNG.SampleTestCase"></class>
@@ -13,15 +12,3 @@
 </classes>
 </test>
 </suite> 
-
-
-
-<!-- <run>
-     <include name="Moto"></include>
-     <include name="Vivo"></include>
-     </run> -->
-
-<!-- <class name="testNG.DependiciesManagement"></class>
-<class name="testNG.DriveACar"></class>
-<class name="testNG.SampleTestCase"></class>
-<class name="testNG.SkikATestCase"></class> -->
