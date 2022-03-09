@@ -8,16 +8,14 @@ public class SampleTestCase {
 	public void firstTestCase() {
 	      System.out.println("This is first test case");
 	}
-	
-	/*
-	 * @Test public void secondTestCase() {
-	 * System.out.println("This is second test case"); }
-	 * 
-	 * @Test public void thirdTestCase() {
-	 * System.out.println("This is third test case"); }
-	 * 
-	 * @Test public void fourthTestCase() {
-	 * System.out.println("This is fourth test case"); }
-	 */
-	
-}
+		
+	  @Test public void secondTestCase() {
+	  System.out.println("This is second test case"); }
+	  
+	  @Test public void thirdTestCase() {
+	  System.out.println("This is third test case"); }
+	  
+	  @Test public void fourthTestCase() {
+	  System.out.println("This is fourth test case"); }
+	 
+	}
